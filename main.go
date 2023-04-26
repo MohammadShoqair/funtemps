@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"funtemps/conv"
+	"github.com/MohammadShoqair/funtemps/conv"
 	"math"
 	"strconv"
 )
